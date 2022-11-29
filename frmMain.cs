@@ -12,7 +12,7 @@ namespace LOIC
 {
 	public partial class frmMain : Form
 	{
-		const string AttackText = "IMMA CHARGIN MAH LAZER";
+		const string AttackText = "CT";
 		const string StpFldText = "Stop flooding";
 
 		private IFlooder[] arr;
